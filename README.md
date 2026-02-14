@@ -27,7 +27,9 @@ Place `GeoJson2UE` in:
 
 `UE_5.7/Engine/Plugins/GeoJson2UE`
 
-Note: Please ensure the UE plugin "Cesium for..." is enabled by default. Unreal Engine 1
+**Note**
+
+Please ensure the UE plugin "Cesium for Unreal" is enabled by default. 
 
 Please enable the UE plugin "VaRest" by default.
 
@@ -66,7 +68,7 @@ This project uses the MIT License.
 把 `GeoJson2UE` 放到：
 `UE_5.7/Engine/Plugins/GeoJson2UE
 
-注意：
+**注意**
 請預設開啟UE插件“Cesium for Unreal”
 請預設開啟UE插件"VaRest"
 請預設開啟UE插件"Geometry Script"
