@@ -1,7 +1,7 @@
 # GeoJson2UE (UE5 Content-Only Plugin)
 
 ## Introduction
-Generates points, splines, and planes corresponding to real-world geographic information using geospatial GeoJson data within the UE5 engine.
+Points, splines, and planes corresponding to real-world geographic information are generated in the UE5 engine by using GeoJSON data.
 
 ## Supported Versions
 
