@@ -46,6 +46,9 @@ If missing, you can install it in UE Fab.
 ## License
 This project uses the MIT License.
 
+## Thanks
+Thanks to the special contributor 'UE5-阿蛋'.
+
 
 # GeoJson2UE（UE5 Content-Only Plugin）
 
@@ -81,3 +84,6 @@ This project uses the MIT License.
 
 ## 許可證
 本項目使用 MIT License
+
+## 感謝
+感謝特別貢獻者“UE5-阿蛋”。
